@@ -1,0 +1,15 @@
+/cloud-api-commons/target/classes/com/curtain/springcloud/entities/CommonResult.class
+/cloud-api-commons/target/classes/com/curtain/springcloud/entities/Payment.class
+/cloud-consumer-order80/target/classes/com/curtain/springcloud/config/ApplicationContextConfig.class
+/cloud-consumer-order80/target/classes/com/curtain/springcloud/controller/OrderController.class
+/cloud-consumer-order80/target/classes/com/curtain/springcloud/OrderMain80.class
+/cloud-consumer-order80/target/classes/META-INF/cloud-consumer-order80.kotlin_module
+/cloud-consumer-order80/target/classes/application.yml
+/cloud-provider-payment8001/target/classes/com/curtain/springcloud/controller/PaymentController.class
+/cloud-provider-payment8001/target/classes/com/curtain/springcloud/dao/PaymentDao.class
+/cloud-provider-payment8001/target/classes/com/curtain/springcloud/service/PaymentService.class
+/cloud-provider-payment8001/target/classes/com/curtain/springcloud/service/PaymentServiceImpl.class
+/cloud-provider-payment8001/target/classes/com/curtain/springcloud/PaymentMain8001.class
+/cloud-provider-payment8001/target/classes/mapper/PaymentMapper.xml
+/cloud-provider-payment8001/target/classes/META-INF/cloud-provider-payment8001.kotlin_module
+/cloud-provider-payment8001/target/classes/application.yml
